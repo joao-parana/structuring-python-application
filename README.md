@@ -5,7 +5,7 @@ Depending on the complexity of your application, you can choose a structure for 
 ## Best pratices
 
 ```python
-#!/bin/env python3
+#!/usr/bin/env python3
 
 # use sheband in scripts
 # use UTF-8 encoding
