@@ -11,5 +11,7 @@ Depending on the complexity of your application, you can choose a structure for 
 # use UTF-8 encoding
 # -*- coding: utf-8 -*-
 
-
+. . .
 ```
+
+Execute PyLint in your code. You can do that using GitHug Actions.
